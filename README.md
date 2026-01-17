@@ -1,4 +1,4 @@
-# Paperframe: Automatic Question Paper Generator
+# Paper Frame: Framing Question Paper from Input Source Questions
 
 Paperframe is a Flask-based web application that automates the creation of question papers by extracting questions from uploaded PDF files. It supports both text-based and scanned PDFs using Optical Character Recognition (OCR), randomly selects questions based on user preferences, and generates a well-formatted downloadable PDF.
 
